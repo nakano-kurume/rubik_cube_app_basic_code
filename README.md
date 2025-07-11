@@ -1,0 +1,2 @@
+# rubik_cube_app_basic_code
+ルービックキューブの展開図を使ったアプリ
